@@ -1,0 +1,7 @@
+fecha_hora,viaje_id,temperatura_actual,temperatura_requerida,nivel_riesgo
+2026-11-05 22:06:11,,7.0,4.0,Pendiente
+2026-11-06 21:15:02,,4.0,4.0,Pendiente
+2026-11-06 22:00:20,ABCD15,6.0,4.0,Pendiente
+2026-11-06 22:01:34,ABCD15,6.0,4.0,Pendiente
+2026-11-06 22:12:01,FRIO25,6.0,4.0,Pendiente
+2026-11-07 16:56:27,FRIO25,6.0,4.0,Medio

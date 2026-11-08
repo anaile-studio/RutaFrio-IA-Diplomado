@@ -1,0 +1,15 @@
+﻿Cantidad de registros: 500
+Exactitud del modelo: 99.0 %
+
+Informe de clasificaci├│n:
+              precision    recall  f1-score   support
+
+        Alto       1.00      1.00      1.00        77
+        Bajo       1.00      0.75      0.86         4
+       Medio       0.95      1.00      0.97        19
+
+    accuracy                           0.99       100
+   macro avg       0.98      0.92      0.94       100
+weighted avg       0.99      0.99      0.99       100
+
+Modelo de RutaFr├¡o guardado correctamente
